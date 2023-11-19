@@ -1,0 +1,160 @@
+====Начало процесса эволюции====
+
+Evaluated 500 individuals
+
+===== Generation 0
+Current individual:
+ [6.811317721867837, -2.500842448202649, -1.6236637532784943]
+Evaluated 303 individuals
+
+===== Generation 1
+Current individual:
+ [0.6159095583282443, 4.838238781583195, -1.2282766891675436]
+Evaluated 311 individuals
+
+===== Generation 2
+Current individual:
+ [3.4892652403069064, 2.946962393300012, 5.29601095540626]
+Evaluated 321 individuals
+
+===== Generation 3
+Current individual:
+ [2.2505576868892074, -5.779153253437023, 0.24322944870638707]
+Evaluated 266 individuals
+
+===== Generation 4
+Current individual:
+ [2.6139208557721805, 0.11106261702443376, -0.7344150510255574]
+Evaluated 317 individuals
+
+===== Generation 5
+Current individual:
+ [1.717406500646355, -0.5346344458637748, 0.0]
+Evaluated 288 individuals
+
+===== Generation 6
+Current individual:
+ [2.6859689046698847, 0.0, 0.9548893141911563]
+Evaluated 299 individuals
+
+===== Generation 7
+Current individual:
+ [2.2505576868892074, -0.9827915407845289, 1.2410783351517818]
+Evaluated 311 individuals
+
+===== Generation 8
+Current individual:
+ [2.2505576868892074, -0.9827915407845289, 0.9548893141911563]
+Evaluated 318 individuals
+
+===== Generation 9
+Current individual:
+ [2.2505576868892074, -0.9827915407845289, 0.9548893141911563]
+Evaluated 313 individuals
+
+===== Generation 10
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.2410783351517818]
+Evaluated 306 individuals
+
+===== Generation 11
+Current individual:
+ [2.2505576868892074, -0.9827915407845289, 0.9548893141911563]
+Evaluated 305 individuals
+
+===== Generation 12
+Current individual:
+ [2.2505576868892074, -0.9827915407845289, 1.0]
+Evaluated 334 individuals
+
+===== Generation 13
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 298 individuals
+
+===== Generation 14
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 0.0]
+Evaluated 287 individuals
+
+===== Generation 15
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 300 individuals
+
+===== Generation 16
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 292 individuals
+
+===== Generation 17
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 313 individuals
+
+===== Generation 18
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 287 individuals
+
+===== Generation 19
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 278 individuals
+
+===== Generation 20
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 298 individuals
+
+===== Generation 21
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 309 individuals
+
+===== Generation 22
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 281 individuals
+
+===== Generation 23
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 281 individuals
+
+===== Generation 24
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 295 individuals
+
+===== Generation 25
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 314 individuals
+
+===== Generation 26
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 293 individuals
+
+===== Generation 27
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 304 individuals
+
+===== Generation 28
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 311 individuals
+
+===== Generation 29
+Current individual:
+ [1.990395405252798, -0.9827915407845289, 1.0]
+Evaluated 270 individuals
+
+====Конец эволюции====
+
+Лучший индивид (x, y, z):
+ [1.990395405252798, -0.9827915407845289, 1.0]
+
+Process finished with exit code 0
